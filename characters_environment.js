@@ -54,7 +54,7 @@ var gameConfig={
 ====================================*/
 noseX = "";
 noseY = "";
-GameStatus();
+GameStatus = null;
 
 
 function startGame() {
